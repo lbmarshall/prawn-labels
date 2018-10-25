@@ -80,3 +80,14 @@ Avery6871:
     rows: 6
     column_gutter: 22.6
     row_gutter: 18.4
+# Avery 5392
+Avery5392:
+    paper_size: LETTER
+    top_margin: 72
+    bottom_margin: 72
+    left_margin: 18
+    right_margin: 18
+    columns: 2
+    rows: 3
+    column_gutter: 0
+    row_gutter: 0
